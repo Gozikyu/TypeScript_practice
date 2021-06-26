@@ -8,8 +8,8 @@
     "target": "es2015",
     "jsx": "react",
     "allowJs": true,
-    "checkJs": true,
-    "noImplicitAny": false
+    "checkJs": true
+    // "noImplicitAny": false
   },
   "include": ["src", "src_3"]
 }

@@ -1,3 +1,6 @@
+/** @param t {string} 
+/**@return {void} */
+
 function testFunction(t) {
-  console.log(t);
+  return console.log(t);
 }
